@@ -23,3 +23,8 @@ There are several public APIs that provide random quotes. As mentioned earlier, 
 
 To use an API effectively, you need to know the URL, HTTP method, query parameters and authentication requirements for receiving the specific data that you need. You will usually find this information in the documentation of the API you wish to use. 
 (https://api.whatdoestrumpthink.com/api/v1/quotes/random)
+
+We discovered how JavaScript can be used to create an interactive web application.
+# Try the Model by Clicking [Here](https://priyanshupatel02.github.io/Fictional_Appearance/).
+> Developed by Priyanshu Patel
+
