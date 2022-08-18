@@ -9,6 +9,6 @@
 
 One of the most basic uses of JavaScript is for making interactive wepbages. This allows the page to change slightly or totally when a user performs an action. JavaScript is used for just about everything these days, including, but not limited to, server infrastructure, desktop and mobile apps.
 
-We have two buttons: the first one for fetching a new random quote and displaying it on the page, and second for sharing the quote on Twitter. At the moment, clicking on either button has no effect and that’s because we haven’t written any JavaScript code yet.
+We have two buttons: the first one for fetching a new **random quote** and displaying it on the page, and second for **sharing the quote on Twitter.** At the moment, clicking on either button has no effect and that’s because we haven’t written any JavaScript code yet.
 
-Our task is to fetch a new quote when the quote button is clicked and display it to the user. We’ll be making use of the What Does Trump Think API to accomplish this.
+Our task is to fetch a new quote when the quote button is clicked and display it to the user. We’ll be making use of the What Does Trump Think **API to accomplish this.
