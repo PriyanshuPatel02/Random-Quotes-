@@ -2,9 +2,12 @@
 ## It’s an application that fetches a new random quote each time a button is pressed and displays it in the browser. Here’s a screenshot of what the finished application looks like:
 
 ![Front image](https://github.com/PriyanshuPatel02/Random-Quotes-/blob/main/quotes.png)
-![gif](https://github.com/PriyanshuPatel02/Random-Quotes-/blob/main/quote-gif-modified.gif)
+
 Let’s take our application to the next level by displaying a loading indicator each time a new quote is requested. This signifies to a user that an operation is currently in progress. We’ll also disable the quote button so that only one request can be made at a time.
+![gif](https://github.com/PriyanshuPatel02/Random-Quotes-/blob/main/quote-gif-modified.gif)
 ![Quotes GIF](https://github.com/PriyanshuPatel02/Random-Quotes-/blob/main/quote-gif.gif)
+
+Clicking the tweet button now should open Twitter’s share tweet page and you will see that the contents of the text box is pre-populated with the quote.
 ![Donald Trump](https://github.com/PriyanshuPatel02/Random-Quotes-/blob/main/tweet-Quote%20Screenshot.jpg)
 <br>
 
