@@ -11,4 +11,4 @@ One of the most basic uses of JavaScript is for making interactive wepbages. Thi
 
 We have two buttons: the first one for fetching a new **random quote** and displaying it on the page, and second for **sharing the quote on Twitter.** At the moment, clicking on either button has no effect and that’s because we haven’t written any JavaScript code yet.
 
-Our task is to fetch a new quote when the quote button is clicked and display it to the user. We’ll be making use of the What Does Trump Think **API to accomplish this.
+Our task is to fetch a new quote when the quote button is clicked and display it to the user. We’ll be making use of the [What Does Trump Think](https://api.whatdoestrumpthink.com/api/) **API to accomplish this.
