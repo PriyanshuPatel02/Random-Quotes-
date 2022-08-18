@@ -25,6 +25,6 @@ To use an API effectively, you need to know the URL, HTTP method, query paramete
 (https://api.whatdoestrumpthink.com/api/v1/quotes/random)
 
 We discovered how JavaScript can be used to create an interactive web application.
-# Try the Model by Clicking [Here](https://priyanshupatel02.github.io/Fictional_Appearance/).
+# Try the Model by Clicking [Here](https://priyanshupatel02.github.io/Random-Quotes-/)
 > Developed by Priyanshu Patel
 
